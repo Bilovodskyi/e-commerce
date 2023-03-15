@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_info_detailed_infos",
+  "info": {
+    "displayName": "Detailed Info",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "one": {
+      "type": "text"
+    },
+    "two": {
+      "type": "string"
+    },
+    "three": {
+      "type": "string"
+    },
+    "four": {
+      "type": "string"
+    },
+    "six": {
+      "type": "string"
+    },
+    "seven": {
+      "type": "string"
+    },
+    "eight": {
+      "type": "string"
+    },
+    "five": {
+      "type": "string"
+    }
+  }
+}
